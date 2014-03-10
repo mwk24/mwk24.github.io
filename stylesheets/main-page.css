@@ -1,0 +1,41 @@
+ body {
+   padding-left: 0;
+   padding-right: 0;
+ }
+ #section-me .image {
+   height: 50px;
+   width: 50px;
+ }
+ #section-me .heading {
+   margin-bottom: 40px;
+ }
+ #section-me p {
+   color: #666666;
+   text-align: center;
+   font-weight: 300;
+   font-family:"helvetica neue";
+ }
+ #section-me p span {
+   font-size: 14px;
+ }
+ #section-recent {
+   background: #43a898;
+ }
+
+ #section-fb {
+   background: #4c67a1;
+ }
+
+ #section-back {
+   background: #4c99a1;
+ }
+
+
+ #bye {
+   background: #fdfdfd;
+ }
+ #bye .heading {
+   text-align: center;
+   font-family:"lobster";
+   font-weight: 100;
+ }
